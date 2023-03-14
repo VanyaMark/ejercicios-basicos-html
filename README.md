@@ -5,3 +5,5 @@
 3. Abrir el ficheor HTML con Live Server e intentar llegar al diseño esperado
 
 Recuerda visital [w3school.com](https://www.w3schools.com/tags/default.asp) si tienes dudas. 
+
+Solución cortesía de [Jonathan Ruiz](https://github.com/Cynox336/HTML_basico/tree/master/html5-semantico-main)
